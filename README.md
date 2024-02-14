@@ -42,7 +42,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-33aadd?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Flutter Flow](https://img.shields.io/badge/Flutter_Flow-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)&nbsp;
 
 
 ### Studying in this moment:
